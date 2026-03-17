@@ -3,6 +3,9 @@ data/*
 outputs/*
 mf_models/*
 
+#VsCode
+.vscode/
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
