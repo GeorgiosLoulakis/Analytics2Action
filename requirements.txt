@@ -39,7 +39,6 @@ pyparsing==3.2.5
 PyQt6==6.10.2
 PyQt6_sip==13.11.0
 python-dateutil==2.9.0.post0
-pywin32==311
 pyzmq==27.1.0
 scikit-learn==1.8.0
 scipy==1.17.1
