@@ -28,7 +28,6 @@ packaging==25.0
 pandas==3.0.1
 parso==0.8.5
 pillow==12.1.1
-pip==26.0.1
 platformdirs==4.9.4
 prompt_toolkit==3.0.52
 psutil==7.0.0
@@ -42,7 +41,6 @@ python-dateutil==2.9.0.post0
 pyzmq==27.1.0
 scikit-learn==1.8.0
 scipy==1.17.1
-setuptools==80.10.2
 sip==6.15.1
 six==1.17.0
 stack_data==0.6.3
@@ -53,4 +51,3 @@ traitlets==5.14.3
 tzdata==2025.3
 umap-learn==0.5.11
 wcwidth==0.2.14
-wheel==0.46.3
