@@ -51,3 +51,7 @@ traitlets==5.14.3
 tzdata==2025.3
 umap-learn==0.5.11
 wcwidth==0.2.14
+pandas
+requests
+beautifulsoup4
+tqdm
